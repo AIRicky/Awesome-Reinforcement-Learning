@@ -1,4 +1,2 @@
 # Optimal-Control-with-Reinforcement-Learning
-Online model-free control with reinforcement learning
-Update
-Again
+In this repository, we aim to explore the application of deep reinforcement learning in the field of robotic optimal control and the cooperative and competitive behavior of multi-agent in different game types, such as RPG, MOBA.
