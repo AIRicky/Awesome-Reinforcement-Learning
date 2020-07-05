@@ -1,2 +1,2 @@
 # Awesome Reinforcement-Learning
-In this repository, we aim to explore the application of deep reinforcement learning in the field of robotic optimal control and the cooperative and competitive behavior of multi-agent in different game types, such as RPG, MOBA.
+In this repository, we aim to explore the application of deep reinforcement learning in the field of robotic  control, the cooperative and competitive behavior of multi-agent in different game types, including RPG and MOBA, cloud infrastructure, and software engineering as well.
